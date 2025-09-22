@@ -1,44 +1,42 @@
-﻿{
-    "id":  "eef971da-e403-4ec1-8149-d25491128593",
-    "name":  "MyApp.ES",
-    "publisher":  "Erik Auso",
-    "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-        {
-            "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
-            "name":  "Common",
-            "publisher":  "Freddy Kristiansen",
-            "version":  "1.0.0.0"
-        },
-        {
-            "id":  "474a238a-f185-4b38-add3-13681a0d985b",
-            "name":  "MyApp.W1",
-            "publisher":  "Erik Auso",
-            "version":  "1.0.0.0"
-        }
-    ],
-    "screenshots":  [
-
-                    ],
-    "platform":  "1.0.0.0",
-    "application":  "25.0.0.0",
-    "runtime": "14.0",
-    "idRanges":  [
-                     {
-                         "from":  62000,
-                         "to":  63000
-                     }
-                 ],
-    "resourceExposurePolicy":  {
-                                   "allowDebugging":  true,
-                                   "allowDownloadingSource":  false,
-                                   "includeSourceInSymbolFile":  false
-                               }
+{
+  "id": "eef971da-e403-4ec1-8149-d25491128593",
+  "name": "MyApp.ES",
+  "publisher": "Erik Auso",
+  "version": "2.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2fa733b0-39e4-4a5d-8687-61706995d5fc",
+      "name": "Common",
+      "publisher": "Freddy Kristiansen",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "474a238a-f185-4b38-add3-13681a0d985b",
+      "name": "MyApp.W1",
+      "publisher": "Erik Auso",
+      "version": "2.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "runtime": "14.0",
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 63000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
 }
