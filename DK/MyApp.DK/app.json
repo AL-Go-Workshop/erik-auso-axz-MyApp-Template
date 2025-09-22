@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "DKGUID",
+    "id":  "2e7f0193-aee9-47b2-8ab8-79af32f83c3e",
     "name":  "MyApp.DK",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "Erik Auso",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "474a238a-f185-4b38-add3-13681a0d985b",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "Erik Auso",
             "version":  "1.0.0.0"
         }
     ],
